@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/gshe/pv/meta-pervices/recipes-nodejs'
+let g:netrw_dirhist_2='/home/gshe/pv/meta-pervices/recipes-nodejs/crimson-website'
+let g:netrw_dirhist_3='/home/gshe/pv/fpga/.git'
+let g:netrw_dirhist_4='/home/gshe/pv/webserver/.git'
